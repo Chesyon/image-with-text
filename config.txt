@@ -1,0 +1,5 @@
+Width, height, and pixel space will be ignored if web mode is enabled. 50*50 is default.
+forceWebMode = false
+Width = 50
+Height = 50
+PixelSpace = 1
